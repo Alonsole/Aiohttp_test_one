@@ -22,7 +22,8 @@
 ```
 При переносе проекта исключена часть по работе с регистрацией (def create_user()).
 ```
-[Прочитать Документацию](https://github.com/Alonsole/Flask_test_one/blob/main/Documentation.md).  
+[Прочитать Документацию](https://github.com/Alonsole/Aiohttp_test_one/blob/main/Documentation.md)
+
 ### Требования
 Python 3.10 +  
 PostgreSQL  
